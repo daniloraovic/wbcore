@@ -1,0 +1,14 @@
+{
+    "name": "bitgear/library",
+    "description": "Library",
+    "authors": [
+        {
+            "name": "Danilo Raovic",
+            "email": "danilo.raovic@bitgear.rs"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    }
+}

@@ -1,0 +1,5 @@
+<?php
+class My_Communication_SmsCommand_Check_In_Account_Number extends My_Communication_SmsCommand_Check_In_Account
+{
+	
+}
