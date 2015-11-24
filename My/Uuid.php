@@ -16,6 +16,7 @@ class My_Uuid {
      * This checks the resource and creates it if needed. 
      * 
      */ 
+
     protected function create() { 
         if (! is_resource ( $this->uuidobject )) { 
             @uuid_create ( &$this->uuidobject ); 
